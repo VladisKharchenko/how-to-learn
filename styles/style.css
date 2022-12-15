@@ -213,6 +213,9 @@
 
 .feynman__subtitle {
   margin-top: 70px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
   line-height: 51px;
   font-size: 36px;
   font-weight: 400;
@@ -236,8 +239,8 @@
   position: absolute;
   left: 0;
   bottom: 0;
-  /*width: 867px;
-  height: 637px;*/
+  width: 867px;
+  height: 637px;
   z-index: 1;
   margin: 0;
 }
@@ -268,7 +271,6 @@
 .section-subtitle_theme_dark {
   color: white;
   width: 60%;
-  padding-top: 20px;
   line-height: 34px;
   font-size: 24px;
   font-weight: 400;
